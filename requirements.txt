@@ -1,0 +1,7 @@
+tensorflow
+transformers
+torch
+scikit-learn
+pandas
+matplotlib
+yfinance

@@ -1,0 +1,4 @@
+finbert-sentiment/
+*.h5
+*.db
+sample_data/
